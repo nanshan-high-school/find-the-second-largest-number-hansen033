@@ -16,4 +16,6 @@ int main() {
     }
   }
   cout << "\n第二大的數是" << s;
+  system("Pause");
+  return 0;
 }
