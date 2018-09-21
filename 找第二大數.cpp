@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  int a, x, f, s;
+  int a, x, f = -2147483648, s = -2147483648;
   cout << "你的陣列有幾個項?";
   cin >> a;
   for ( int t = 0 ; t < a ; t ++ ){
